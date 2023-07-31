@@ -27,7 +27,7 @@
 }
 
 .card h1{
-    font-size: 40px;
+    font-size: 35px;
     margin-bottom: 10px;
 }
 
@@ -43,7 +43,7 @@
     margin: 0px 25px;
     padding: 6px 12px;
     border: none;
-    font-size: 18px;
+    font-size: 15px;
     outline: none;
     background-color: black;
     color: white;
